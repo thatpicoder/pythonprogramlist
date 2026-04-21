@@ -8,6 +8,7 @@
 - bunny collector (all) (https://github.com/thatpicoder/bunnycollector)
 - dog collector (all) (https://github.com/thatpicoder/dogcollector)
 - py2048 (all) (https://github.com/thatpicoder/py2048)
+- pygamble (all) (https://github.com/thatpicoder/pygamble)
 
 # key
 
